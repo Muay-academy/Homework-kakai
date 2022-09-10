@@ -5,3 +5,5 @@
 #Nodejs 3. https://github.com/Muay-academy/Nodejs-docker.git
 
 #Python 4. https://github.com/Muay-academy/python.git
+
+#typescript web application with denoland  5.https://github.com/Muay-academy/vdeno.git
